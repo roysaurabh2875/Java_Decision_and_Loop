@@ -23,5 +23,6 @@ public class ComputePI {
         pi= 4 * sum ;
 
         System.out.println(pi);
+        sc.close();
     }
 }

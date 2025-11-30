@@ -15,7 +15,7 @@ public class Tribonacci {
             a = b ;
             b = c ;
             c = d ;
-
          }
+         sc.close();
     }
 }

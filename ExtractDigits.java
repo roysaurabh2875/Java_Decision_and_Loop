@@ -14,5 +14,6 @@ public class ExtractDigits {
             System.out.print(remainder + " ");
             n = n / 10;
         }
+        sc.close();
     }
 }
